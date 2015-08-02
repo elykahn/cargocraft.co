@@ -1,0 +1,20 @@
+# Site settings Update for my Blog : spaceg.github.io Do.9.April 15.49:24 2015
+title: CargoCraftCo
+email: e@cargocraft.co
+description: "Welcome to CargoCraftCo. Here you'll find a curated collection of high-quality, hand-made and heartily crafted bags that the community of carriers has chosen to highlight. Submissions always welcomed."
+baseurl: ""
+url: "http://cargocraft.co"
+twitter_username: cargocraftco
+github_username: elykahn
+google_username:
+instagram_username:  mindfulely
+
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate:
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+paginate: 5 #posts per page

@@ -1,0 +1,6 @@
+siteurl: http://cargocraft.co/
+url: "http://cargocraft.co"
+baseurl: "http://cargocraft.co"
+markdown: maruku
+pygments: false
+paginate:
